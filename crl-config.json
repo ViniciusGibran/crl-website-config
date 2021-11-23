@@ -1,14 +1,20 @@
 {
-    "crl-1": {
-        "home-title": "Welcome to Champs Racing League!", 
-        "home-subtitle": "Are you are looking for some clean and competitive F1 2021 racing for players of all skill levels with features like Driver Ratings, Prize Drawings and Prize Pools?",
-        "season-details": "First Division - Season Starts 15/08 \n Second Division - Season sign-up open!",
+    "divisionOne": {
+        "homeTitle": "Welcome to Champs Racing League!", 
+        "homeSubtitle": "Are you are looking for some clean and competitive F1 2021 racing for players of all skill levels with features like Driver Ratings, Prize Drawings and Prize Pools?",
+        "seasonDetails": "First Division - Season Starts 15/08 \n Second Division - Season sign-up open!",
         "discord": "Join us on discord!"
     },
-    "crl-2": {
-        "home-title": "Welcome to Champs Racing League!", 
-        "home-subtitle": "Are you are looking for some clean and competitive F1 2021 racing for players of all skill levels with features like Driver Ratings, Prize Drawings and Prize Pools?",
-        "season-details": "First Division - Season Starts 15/08 \n Second Division - Season sign-up open!",
+    "divisionTwo": {
+        "homeTitle": "Welcome to Champs Racing League!", 
+        "homeSubtitle": "Are you are looking for some clean and competitive F1 2021 racing for players of all skill levels with features like Driver Ratings, Prize Drawings and Prize Pools?",
+        "seasonDetails": "First Division - Season Starts 15/08 \n Second Division - Season sign-up open!",
+        "discord": "Join us on discord!"
+    },
+    "divisionS": {
+        "homeTitle": "Welcome to Champs Racing League!", 
+        "homeSubtitle": "Are you are looking for some clean and competitive F1 2021 racing for players of all skill levels with features like Driver Ratings, Prize Drawings and Prize Pools?",
+        "seasonDetails": "First Division - Season Starts 15/08 \n Second Division - Season sign-up open!",
         "discord": "Join us on discord!"
     }
 }
