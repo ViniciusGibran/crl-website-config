@@ -11,7 +11,15 @@
         "resultsImgURL": "https://drive.google.com/uc?id=139pPDVwgxf4Imlmlcq07iUJnHrQj0-Qe",
         "lineupImgURL": "https://drive.google.com/uc?id=1AxFrHNbEBP-424PQYYlw4H7PxPXb54cJ",
         "historyImgURL": "https://drive.google.com/uc?id=1jZ5fGMwaUZ95lYRmgh-6bsmBQjKT6U1k",
-        "standingsImgURL": "https://drive.google.com/uc?id=1AhHiZgydhM78Z6j_e4DnWpRNzgN8Vflf"
+        "standingsImgURL": "https://drive.google.com/uc?id=1AhHiZgydhM78Z6j_e4DnWpRNzgN8Vflf",
+        "colors": {
+            "menuItemBackgroundColor": "#33353e",
+            "menuItemHoverEffectColor": "#25272f",
+            "textColor": "#fafafa",
+            "menuBackgroundColor": "#25272f",
+            "websiteBackgroundColor": "#373A47",
+            "menuItemSelectedBackgroundColor": "#25272f"
+        }
     },
     "divisionTwo": {
         "homeTitle": "Welcome to Champs Racing League!", 
@@ -25,7 +33,15 @@
         "resultsImgURL": "https://drive.google.com/uc?id=110wPOr6ihUhZfYydBt-1VLcE-_6_z9An",
         "lineupImgURL": "https://drive.google.com/uc?id=1b1UaFYlaCG37vcisLWu5-7fwu4fNbhqD",
         "historyImgURL": "https://drive.google.com/uc?id=1jZ5fGMwaUZ95lYRmgh-6bsmBQjKT6U1k",
-        "standingsImgURL": "https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G"
+        "standingsImgURL": "https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G",
+        "colors": {
+            "menuItemBackgroundColor": "#33353e",
+            "menuItemHoverEffectColor": "#25272f",
+            "textColor": "#fafafa",
+            "menuBackgroundColor": "#25272f",
+            "websiteBackgroundColor": "#373A47",
+            "menuItemSelectedBackgroundColor": "#25272f"
+        }
     },
     "divisionS": {
         "homeTitle": "Welcome to Champs Racing League!", 
@@ -39,6 +55,14 @@
         "resultsImgURL": "https://drive.google.com/uc?id=110wPOr6ihUhZfYydBt-1VLcE-_6_z9An",
         "lineupImgURL": "https://drive.google.com/uc?id=1b1UaFYlaCG37vcisLWu5-7fwu4fNbhqD",
         "historyImgURL": "https://drive.google.com/uc?id=1jZ5fGMwaUZ95lYRmgh-6bsmBQjKT6U1k",
-        "standingsImgURL": "https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G"
+        "standingsImgURL": "https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G",
+        "colors": {
+            "menuItemBackgroundColor": "#33353e",
+            "menuItemHoverEffectColor": "#25272f",
+            "textColor": "#fafafa",
+            "menuBackgroundColor": "#25272f",
+            "websiteBackgroundColor": "#373A47",
+            "menuItemSelectedBackgroundColor": "#25272f"
+        }
     }
 }
