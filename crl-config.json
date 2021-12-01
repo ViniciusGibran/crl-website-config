@@ -43,12 +43,12 @@
             "standingsURL": "https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G"
         },
         "colors": {
-            "menuItemBackgroundColor": "#33353e",
-            "menuItemHoverEffectColor": "#25272f",
-            "textColor": "#fafafa",
-            "menuBackgroundColor": "#25272f",
-            "websiteBackgroundColor": "#373A47",
-            "menuItemSelectedBackgroundColor": "#25272f"
+            "menuItemBackground": "#33353e",
+            "menuItemHoverEffect": "#25272f",
+            "labels": "#fafafa",
+            "menuBackground": "#25272f",
+            "websiteBackground": "#373A47",
+            "menuItemSelectedBackground": "#25272f"
         }
     },
     "divisionS": {
@@ -69,12 +69,12 @@
             "standingsURL": "https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G"
         },
         "colors": {
-            "menuItemBackgroundColor": "#33353e",
-            "menuItemHoverEffectColor": "#25272f",
-            "textColor": "#fafafa",
-            "menuBackgroundColor": "#25272f",
-            "websiteBackgroundColor": "#373A47",
-            "menuItemSelectedBackgroundColor": "#25272f"
+            "menuItemBackground": "#33353e",
+            "menuItemHoverEffect": "#25272f",
+            "labels": "#fafafa",
+            "menuBackground": "#25272f",
+            "websiteBackground": "#373A47",
+            "menuItemSelectedBackground": "#25272f"
         }
     },
     "development": {
@@ -95,12 +95,12 @@
             "standingsURL": "https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G"
         },
         "colors": {
-            "menuItemBackgroundColor": "#33353e",
-            "menuItemHoverEffectColor": "#25272f",
-            "textColor": "#fafafa",
-            "menuBackgroundColor": "#25272f",
-            "websiteBackgroundColor": "#373A47",
-            "menuItemSelectedBackgroundColor": "#25272f"
+            "menuItemBackground": "#33353e",
+            "menuItemHoverEffect": "#25272f",
+            "labels": "#fafafa",
+            "menuBackground": "#25272f",
+            "websiteBackground": "#373A47",
+            "menuItemSelectedBackground": "#25272f"
         }
     }
 }
