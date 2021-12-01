@@ -1,39 +1,47 @@
 {
     "divisionOne": {
-        "homeTitle": "Welcome to Champs Racing League!", 
-        "homeSubtitle": "Are you are looking for some clean and competitive F1 2021 racing for players of all skill levels with features like Driver Ratings, Prize Drawings and Prize Pools?",
-        "seasonDetails": "",
-        "discordTitle": "\n\n\nSEASON SIGN-UP OPEN. JOIN NOW!",
-        "footerLabelText": "bringing f1 game to real life",
-        "prizeDrawImgURL": "https://drive.google.com/uc?id=1dORCOyrkNibjglBrXP4Sr5OhikV6E1ZC",
-        "ratingsImgURL": "https://drive.google.com/uc?id=1BavVMLhL-yQ_8XnpeL_DjmChn8DPTJet",
-        "calendarImgURL": "https://drive.google.com/uc?id=1w0YM_6XeSPut2P25cNandS5CaY8fyZxY",
-        "resultsImgURL": "https://drive.google.com/uc?id=139pPDVwgxf4Imlmlcq07iUJnHrQj0-Qe",
-        "lineupImgURL": "https://drive.google.com/uc?id=1AxFrHNbEBP-424PQYYlw4H7PxPXb54cJ",
-        "historyImgURL": "https://drive.google.com/uc?id=1jZ5fGMwaUZ95lYRmgh-6bsmBQjKT6U1k",
-        "standingsImgURL": "https://drive.google.com/uc?id=1AhHiZgydhM78Z6j_e4DnWpRNzgN8Vflf",
+        "labels": {
+            "homeTitle": "Welcome to Champs Racing League!", 
+            "homeSubtitle": "Are you looking for some clean and competitive F1 2021 racing for players of all skill levels with features like Driver Ratings, Prize Drawings and Prize Pools?",
+            "seasonDetails": "",
+            "discordTitle": "\n\n\nSEASON SIGN-UP OPEN. JOIN NOW!",
+            "sideFooterText": "bringing f1 game to real life"
+        },
+        "images": {
+            "prizeDrawURL": "https://drive.google.com/uc?id=1dORCOyrkNibjglBrXP4Sr5OhikV6E1ZC",
+            "ratingsURL": "https://drive.google.com/uc?id=1BavVMLhL-yQ_8XnpeL_DjmChn8DPTJet",
+            "calendarURL": "https://drive.google.com/uc?id=1w0YM_6XeSPut2P25cNandS5CaY8fyZxY",
+            "resultsURL": "https://drive.google.com/uc?id=139pPDVwgxf4Imlmlcq07iUJnHrQj0-Qe",
+            "lineupURL": "https://drive.google.com/uc?id=1AxFrHNbEBP-424PQYYlw4H7PxPXb54cJ",
+            "historyURL": "https://drive.google.com/uc?id=1jZ5fGMwaUZ95lYRmgh-6bsmBQjKT6U1k",
+            "standingsURL": "https://drive.google.com/uc?id=1AhHiZgydhM78Z6j_e4DnWpRNzgN8Vflf"
+        },
         "colors": {
-            "menuItemBackgroundColor": "#33353e",
-            "menuItemHoverEffectColor": "#25272f",
-            "textColor": "#fafafa",
-            "menuBackgroundColor": "#25272f",
-            "websiteBackgroundColor": "#373A47",
-            "menuItemSelectedBackgroundColor": "#25272f"
+            "menuItemBackground": "#33353e",
+            "menuItemHoverEffect": "#25272f",
+            "labels": "#fafafa",
+            "menuBackground": "#25272f",
+            "websiteBackground": "#373A47",
+            "menuItemSelectedBackground": "#25272f"
         }
     },
     "divisionTwo": {
-        "homeTitle": "Welcome to Champs Racing League!", 
-        "homeSubtitle": "Are you are looking for some clean and competitive F1 2021 racing for players of all skill levels with features like Driver Ratings, Prize Drawings and Prize Pools?",
-        "seasonDetails": "",
-        "discordTitle": "\n\n\nSEASON SIGN-UP OPEN. JOIN NOW!",
-        "footerLabelText": "bringing f1 game to real life",
-        "prizeDrawImgURL": "https://drive.google.com/uc?id=1Iq4J7nXliQciK-EdUkTLr0eFfYEvLjs_",
-        "ratingsImgURL": "https://drive.google.com/uc?id=1vfXz7k-VREXMk5PZlc5ss7TMT9dAHA_T",
-        "calendarImgURL": "https://drive.google.com/uc?id=1roczUuJK6FHlc3cimZEJhwCcwKUwx0gG",
-        "resultsImgURL": "https://drive.google.com/uc?id=110wPOr6ihUhZfYydBt-1VLcE-_6_z9An",
-        "lineupImgURL": "https://drive.google.com/uc?id=1b1UaFYlaCG37vcisLWu5-7fwu4fNbhqD",
-        "historyImgURL": "https://drive.google.com/uc?id=1jZ5fGMwaUZ95lYRmgh-6bsmBQjKT6U1k",
-        "standingsImgURL": "https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G",
+        "labels": {
+            "homeTitle": "Welcome to Champs Racing League!", 
+            "homeSubtitle": "Are you looking for some clean and competitive F1 2021 racing for players of all skill levels with features like Driver Ratings, Prize Drawings and Prize Pools?",
+            "seasonDetails": "",
+            "discordTitle": "\n\n\nSEASON SIGN-UP OPEN. JOIN NOW!",
+            "sideFooterText": "bringing f1 game to real life"
+        },
+        "images": {
+            "prizeDrawURL": "https://drive.google.com/uc?id=1Iq4J7nXliQciK-EdUkTLr0eFfYEvLjs_",
+            "ratingsURL": "https://drive.google.com/uc?id=1vfXz7k-VREXMk5PZlc5ss7TMT9dAHA_T",
+            "calendarURL": "https://drive.google.com/uc?id=1roczUuJK6FHlc3cimZEJhwCcwKUwx0gG",
+            "resultsURL": "https://drive.google.com/uc?id=110wPOr6ihUhZfYydBt-1VLcE-_6_z9An",
+            "lineupURL": "https://drive.google.com/uc?id=1b1UaFYlaCG37vcisLWu5-7fwu4fNbhqD",
+            "historyURL": "https://drive.google.com/uc?id=1jZ5fGMwaUZ95lYRmgh-6bsmBQjKT6U1k",
+            "standingsURL": "https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G"
+        },
         "colors": {
             "menuItemBackgroundColor": "#33353e",
             "menuItemHoverEffectColor": "#25272f",
@@ -44,18 +52,48 @@
         }
     },
     "divisionS": {
-        "homeTitle": "Welcome to Champs Racing League!", 
-        "homeSubtitle": "Are you are looking for some clean and competitive F1 2021 racing for players of all skill levels with features like Driver Ratings, Prize Drawings and Prize Pools?",
-        "seasonDetails": "",
-        "discordTitle": "\n\n\nSEASON SIGN-UP OPEN. JOIN NOW!",
-        "footerLabelText": "bringing f1 game to real life",
-        "prizeDrawImgURL": "https://drive.google.com/uc?id=1Iq4J7nXliQciK-EdUkTLr0eFfYEvLjs_",
-        "ratingsImgURL": "https://drive.google.com/uc?id=1vfXz7k-VREXMk5PZlc5ss7TMT9dAHA_T",
-        "calendarImgURL": "https://drive.google.com/uc?id=1roczUuJK6FHlc3cimZEJhwCcwKUwx0gG",
-        "resultsImgURL": "https://drive.google.com/uc?id=110wPOr6ihUhZfYydBt-1VLcE-_6_z9An",
-        "lineupImgURL": "https://drive.google.com/uc?id=1b1UaFYlaCG37vcisLWu5-7fwu4fNbhqD",
-        "historyImgURL": "https://drive.google.com/uc?id=1jZ5fGMwaUZ95lYRmgh-6bsmBQjKT6U1k",
-        "standingsImgURL": "https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G",
+         "labels": {
+            "homeTitle": "Welcome to Champs Racing League!", 
+            "homeSubtitle": "Are you looking for some clean and competitive F1 2021 racing for players of all skill levels with features like Driver Ratings, Prize Drawings and Prize Pools?",
+            "seasonDetails": "",
+            "discordTitle": "\n\n\nSEASON SIGN-UP OPEN. JOIN NOW!",
+            "sideFooterText": "bringing f1 game to real life"
+        },
+        "images": {
+            "prizeDrawURL": "https://drive.google.com/uc?id=1Iq4J7nXliQciK-EdUkTLr0eFfYEvLjs_",
+            "ratingsURL": "https://drive.google.com/uc?id=1vfXz7k-VREXMk5PZlc5ss7TMT9dAHA_T",
+            "calendarURL": "https://drive.google.com/uc?id=1roczUuJK6FHlc3cimZEJhwCcwKUwx0gG",
+            "resultsURL": "https://drive.google.com/uc?id=110wPOr6ihUhZfYydBt-1VLcE-_6_z9An",
+            "lineupURL": "https://drive.google.com/uc?id=1b1UaFYlaCG37vcisLWu5-7fwu4fNbhqD",
+            "historyURL": "https://drive.google.com/uc?id=1jZ5fGMwaUZ95lYRmgh-6bsmBQjKT6U1k",
+            "standingsURL": "https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G"
+        },
+        "colors": {
+            "menuItemBackgroundColor": "#33353e",
+            "menuItemHoverEffectColor": "#25272f",
+            "textColor": "#fafafa",
+            "menuBackgroundColor": "#25272f",
+            "websiteBackgroundColor": "#373A47",
+            "menuItemSelectedBackgroundColor": "#25272f"
+        }
+    },
+    "development": {
+        "labels": {
+            "homeTitle": "Welcome to Champs Racing League!", 
+            "homeSubtitle": "Are you looking for some clean and competitive F1 2021 racing for players of all skill levels with features like Driver Ratings, Prize Drawings and Prize Pools?",
+            "seasonDetails": "",
+            "discordTitle": "\n\n\nSEASON SIGN-UP OPEN. JOIN NOW!",
+            "sideFooterText": "bringing f1 game to real life"
+        },
+        "images": {
+            "prizeDrawURL": "https://drive.google.com/uc?id=1Iq4J7nXliQciK-EdUkTLr0eFfYEvLjs_",
+            "ratingsURL": "https://drive.google.com/uc?id=1vfXz7k-VREXMk5PZlc5ss7TMT9dAHA_T",
+            "calendarURL": "https://drive.google.com/uc?id=1roczUuJK6FHlc3cimZEJhwCcwKUwx0gG",
+            "resultsURL": "https://drive.google.com/uc?id=110wPOr6ihUhZfYydBt-1VLcE-_6_z9An",
+            "lineupURL": "https://drive.google.com/uc?id=1b1UaFYlaCG37vcisLWu5-7fwu4fNbhqD",
+            "historyURL": "https://drive.google.com/uc?id=1jZ5fGMwaUZ95lYRmgh-6bsmBQjKT6U1k",
+            "standingsURL": "https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G"
+        },
         "colors": {
             "menuItemBackgroundColor": "#33353e",
             "menuItemHoverEffectColor": "#25272f",
