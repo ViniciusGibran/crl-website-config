@@ -101,6 +101,47 @@
             "menuBackground": "#25272f",
             "websiteBackground": "#373A47",
             "menuItemSelectedBackground": "#25272f"
+        },
+        "iamgesSize": {
+            "calendar": {
+                "width": "300px",
+                "height": "200px"
+            },
+            "results": {
+                "width": "300px",
+                "height": "200px"
+            },
+            "history": {
+                "width": "300px",
+                "height": "200px"
+            },
+            "lineup": {
+                "width": "300px",
+                "height": "200px"
+            },
+            "prize-draw": {
+                "width": "300px",
+                "height": "200px"
+            },
+            "ratings": {
+                "width": "300px",
+                "height": "200px"
+            },
+            "standings": {
+                "width": "300px",
+                "height": "200px"
+            },
+            "discordIframe": {
+                "width": "300px",
+                "height": "200px"
+            }
         }
     }
 }
+
+
+
+
+
+
+
