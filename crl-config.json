@@ -91,8 +91,12 @@
             "calendarURL": "https://drive.google.com/uc?id=1roczUuJK6FHlc3cimZEJhwCcwKUwx0gG",
             "resultsURL": "https://drive.google.com/uc?id=110wPOr6ihUhZfYydBt-1VLcE-_6_z9An",
             "lineupURL": "https://drive.google.com/uc?id=1b1UaFYlaCG37vcisLWu5-7fwu4fNbhqD",
-            "historyURL": "https://drive.google.com/uc?id=1jZ5fGMwaUZ95lYRmgh-6bsmBQjKT6U1k",
-            "standingsURL": "https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G"
+            "standingsURL": "https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G",
+            "historyURL": [
+                "https://drive.google.com/uc?id=1jZ5fGMwaUZ95lYRmgh-6bsmBQjKT6U1k",
+                "https://drive.google.com/uc?id=1AhHiZgydhM78Z6j_e4DnWpRNzgN8Vflf",
+                "https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G"
+             ]    
         },
         "colors": {
             "menuItemBackground": "#33353e",
