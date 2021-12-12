@@ -137,7 +137,11 @@
             },
             "discordIframe": {
                 "width": "300px",
-                "height": "200px"
+                "height": "480px"
+            },
+            "videoIframe": {
+                "width": "640px",
+                "height": "480px"
             }
         }
     }
