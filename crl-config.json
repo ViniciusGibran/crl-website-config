@@ -25,34 +25,6 @@
             "menuItemSelectedBackground": "#25272f"
         },
         "imagesSize": {
-            "calendar": {
-                "width": "300px",
-                "height": "200px"
-            },
-            "results": {
-                "width": "300px",
-                "height": "200px"
-            },
-            "history": {
-                "width": "900px",
-                "height": "600px"
-            },
-            "lineup": {
-                "width": "300px",
-                "height": "200px"
-            },
-            "prizeDraw": {
-                "width": "300px",
-                "height": "200px"
-            },
-            "ratings": {
-                "width": "300px",
-                "height": "200px"
-            },
-            "standings": {
-                "width": "300px",
-                "height": "200px"
-            },
             "discordIframe": {
                 "width": "300px",
                 "height": "480px"
@@ -60,7 +32,35 @@
             "videoIframe": {
                 "width": "640px",
                 "height": "480px"
-            }
+            },
+            "calendar": {
+                "width": "800px",
+                "height": "500px"
+            },
+            "results": {
+                "width": "900px",
+                "height": "600px"
+            },
+            "standings": {
+                "width": "800px",
+                "height": "500px"
+            },
+            "lineup": {
+                "width": "400px",
+                "height": "700px"
+            },
+            "ratings": {
+                "width": "700px",
+                "height": "400px"
+            },
+            "history": {
+                "width": "900px",
+                "height": "600px"
+            },
+            "prizeDraw": {
+                "width": "800px",
+                "height": "700px"
+            },
         }
     },
     "divisionTwo": {
