@@ -4,7 +4,7 @@
 			"homeTitle": "Welcome to Champs Racing League!",
 			"homeSubtitle": "Are you looking for some clean and competitive F1 2021 racing for players of all skill levels with features like Driver Ratings, Prize Drawings and Prize Pools?",
 			"seasonDetails": "",
-			"discordTitle": "\n\nSEASON SIGN-UP OPEN. JOIN NOW!",
+			"discordTitle": "\n\\n\nSEASON SIGN-UP OPEN. JOIN NOW!",
 			"sideMenuFooterText": "bringing f1 game to real life"
 		},
 		"images": {
@@ -22,7 +22,7 @@
 		},
 		"colors": {
 			"menuItemBackground": "#33353e",
-			"menuItemHoverEffect": "#8633cc",
+			"menuItemHoverEffect": "#502179",
 			"labels": "#fafafa",
 			"menuBackground": "#25272f",
 			"websiteBackground": "#373A47",
@@ -38,20 +38,20 @@
 				"height": "480px"
 			},
 			"calendar": {
-				"width": "1000px",
-				"height": "700px"
-			},
-			"results": {
-				"width": "1100px",
-				"height": "900px"
-			},
-			"standings": {
 				"width": "1100px",
 				"height": "800px"
 			},
-			"lineup": {
-				"width": "600px",
+			"results": {
+				"width": "1100px",
+				"height": "980px"
+			},
+			"standings": {
+				"width": "1000px",
 				"height": "900px"
+			},
+			"lineup": {
+				"width": "580px",
+				"height": "980px"
 			},
 			"ratings": {
 				"width": "900px",
@@ -63,7 +63,7 @@
 			},
 			"prizeDraw": {
 				"width": "1000px",
-				"height": "8000px"
+				"height": "800px"
 			}
 		}
 	},
@@ -72,7 +72,7 @@
 			"homeTitle": "Welcome to Champs Racing League!",
 			"homeSubtitle": "Are you looking for some clean and competitive F1 2021 racing for players of all skill levels with features like Driver Ratings, Prize Drawings and Prize Pools?",
 			"seasonDetails": "",
-			"discordTitle": "\n\nSEASON SIGN-UP OPEN. JOIN NOW!",
+			"discordTitle": "\n\n\nSEASON SIGN-UP OPEN. JOIN NOW!",
 			"sideMenuFooterText": "bringing f1 game to real life"
 		},
 		"images": {
@@ -90,7 +90,7 @@
 		},
 		"colors": {
 			"menuItemBackground": "#33353e",
-			"menuItemHoverEffect": "#1f62ee",
+			"menuItemHoverEffect": "#1944a0",
 			"labels": "#fafafa",
 			"menuBackground": "#25272f",
 			"websiteBackground": "#373A47",
@@ -106,20 +106,20 @@
 				"height": "480px"
 			},
 			"calendar": {
-				"width": "1000px",
-				"height": "700px"
-			},
-			"results": {
-				"width": "1100px",
-				"height": "900px"
-			},
-			"standings": {
 				"width": "1100px",
 				"height": "800px"
 			},
-			"lineup": {
-				"width": "600px",
+			"results": {
+				"width": "1100px",
+				"height": "980px"
+			},
+			"standings": {
+				"width": "1000px",
 				"height": "900px"
+			},
+			"lineup": {
+				"width": "580px",
+				"height": "980px"
 			},
 			"ratings": {
 				"width": "900px",
@@ -131,7 +131,7 @@
 			},
 			"prizeDraw": {
 				"width": "1000px",
-				"height": "8000px"
+				"height": "800px"
 			}
 		}
 	},
