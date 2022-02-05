@@ -46,11 +46,11 @@
 				"height": "980px"
 			},
 			"standings": {
-				"width": "1000px",
-				"height": "600px"
+				"width": "900px",
+				"height": "700px"
 			},
 			"lineup": {
-				"width": "480px",
+				"width": "600px",
 				"height": "980px"
 			},
 			"ratings": {
@@ -114,11 +114,11 @@
 				"height": "980px"
 			},
 			"standings": {
-				"width": "1000px",
-				"height": "600px"
+				"width": "900px",
+				"height": "700px"
 			},
 			"lineup": {
-				"width": "480px",
+				"width": "600px",
 				"height": "980px"
 			},
 			"ratings": {
