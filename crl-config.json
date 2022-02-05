@@ -4,7 +4,7 @@
 			"homeTitle": "Welcome to Champs Racing League!",
 			"homeSubtitle": "Are you looking for some clean and competitive F1 2021 racing for players of all skill levels with features like Driver Ratings, Prize Drawings and Prize Pools?",
 			"seasonDetails": "",
-			"discordTitle": "\n\\n\nSEASON SIGN-UP OPEN. JOIN NOW!",
+			"discordTitle": "\n\n\nSEASON SIGN-UP OPEN. JOIN NOW!",
 			"sideMenuFooterText": "bringing f1 game to real life"
 		},
 		"images": {
@@ -47,7 +47,7 @@
 			},
 			"standings": {
 				"width": "1000px",
-				"height": "700px"
+				"height": "600px"
 			},
 			"lineup": {
 				"width": "550px",
@@ -115,7 +115,7 @@
 			},
 			"standings": {
 				"width": "1000px",
-				"height": "700px"
+				"height": "600px"
 			},
 			"lineup": {
 				"width": "550px",
