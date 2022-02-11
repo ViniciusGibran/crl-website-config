@@ -1,274 +1,312 @@
 {
-	"divisionOne": {
-		"labels": {
-			"homeTitle": "Welcome to Champs Racing League!",
-			"homeSubtitle": "Are you looking for some clean and competitive F1 2021 racing for players of all skill levels with features like Driver Ratings, Prize Drawings and Prize Pools?",
-			"seasonDetails": "",
-			"discordTitle": "\n\n\nSEASON SIGN-UP OPEN. JOIN NOW!",
-			"sideMenuFooterText": "bringing f1 game to real life"
-		},
-		"images": {
-			"prizeDrawURL": "https://drive.google.com/uc?id=1dORCOyrkNibjglBrXP4Sr5OhikV6E1ZC",
-			"ratingsURL": "https://drive.google.com/uc?id=1BavVMLhL-yQ_8XnpeL_DjmChn8DPTJet",
-			"calendarURL": "https://drive.google.com/uc?id=1w0YM_6XeSPut2P25cNandS5CaY8fyZxY",
-			"resultsURL": "https://drive.google.com/uc?id=139pPDVwgxf4Imlmlcq07iUJnHrQj0-Qe",
-			"lineupURL": "https://drive.google.com/uc?id=1AxFrHNbEBP-424PQYYlw4H7PxPXb54cJ",
-			"standingsURL": "https://drive.google.com/uc?id=1AhHiZgydhM78Z6j_e4DnWpRNzgN8Vflf",
-			"historyURL": [
-				"https://drive.google.com/uc?id=1jZ5fGMwaUZ95lYRmgh-6bsmBQjKT6U1k",
-				"https://drive.google.com/uc?id=1AhHiZgydhM78Z6j_e4DnWpRNzgN8Vflf",
-				"https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G"
-			]
-		},
-		"colors": {
-			"menuItemBackground": "#33353e",
-			"menuItemHoverEffect": "#502179",
-			"labels": "#fafafa",
-			"menuBackground": "#25272f",
-			"websiteBackground": "#373A47",
-			"menuItemSelectedBackground": "#25272f"
-		},
-		"imagesSize": {
-			"discordIframe": {
-				"width": "300px",
-				"height": "480px"
-			},
-			"videoIframe": {
-				"width": "640px",
-				"height": "480px"
-			},
-			"calendar": {
-				"width": "1100px",
-				"height": "800px"
-			},
-			"results": {
-				"width": "1100px",
-				"height": "980px"
-			},
-			"standings": {
-				"width": "700px",
-				"height": "900px"
-			},
-			"lineup": {
-				"width": "600px",
-				"height": "980px"
-			},
-			"ratings": {
-				"width": "900px",
-				"height": "700px"
-			},
-			"history": {
-				"width": "1100px",
-				"height": "900px"
-			},
-			"prizeDraw": {
-				"width": "1000px",
-				"height": "800px"
-			}
-		}
-	},
-	"divisionTwo": {
-		"labels": {
-			"homeTitle": "Welcome to Champs Racing League!",
-			"homeSubtitle": "Are you looking for some clean and competitive F1 2021 racing for players of all skill levels with features like Driver Ratings, Prize Drawings and Prize Pools?",
-			"seasonDetails": "",
-			"discordTitle": "\n\n\nSEASON SIGN-UP OPEN. JOIN NOW!",
-			"sideMenuFooterText": "bringing f1 game to real life"
-		},
-		"images": {
-			"prizeDrawURL": "https://drive.google.com/uc?id=1Iq4J7nXliQciK-EdUkTLr0eFfYEvLjs_",
-			"ratingsURL": "https://drive.google.com/uc?id=1vfXz7k-VREXMk5PZlc5ss7TMT9dAHA_T",
-			"calendarURL": "https://drive.google.com/uc?id=1roczUuJK6FHlc3cimZEJhwCcwKUwx0gG",
-			"resultsURL": "https://drive.google.com/uc?id=110wPOr6ihUhZfYydBt-1VLcE-_6_z9An",
-			"lineupURL": "https://drive.google.com/uc?id=1b1UaFYlaCG37vcisLWu5-7fwu4fNbhqD",
-			"standingsURL": "https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G",
-			"historyURL": [
-				"https://drive.google.com/uc?id=1jZ5fGMwaUZ95lYRmgh-6bsmBQjKT6U1k",
-				"https://drive.google.com/uc?id=1AhHiZgydhM78Z6j_e4DnWpRNzgN8Vflf",
-				"https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G"
-			]
-		},
-		"colors": {
-			"menuItemBackground": "#33353e",
-			"menuItemHoverEffect": "#1944a0",
-			"labels": "#fafafa",
-			"menuBackground": "#25272f",
-			"websiteBackground": "#373A47",
-			"menuItemSelectedBackground": "#25272f"
-		},
-		"imagesSize": {
-			"discordIframe": {
-				"width": "300px",
-				"height": "480px"
-			},
-			"videoIframe": {
-				"width": "640px",
-				"height": "480px"
-			},
-			"calendar": {
-				"width": "1100px",
-				"height": "800px"
-			},
-			"results": {
-				"width": "1100px",
-				"height": "980px"
-			},
-			"standings": {
-				"width": "700px",
-				"height": "900px"
-			},
-			"lineup": {
-				"width": "600px",
-				"height": "980px"
-			},
-			"ratings": {
-				"width": "900px",
-				"height": "700px"
-			},
-			"history": {
-				"width": "1100px",
-				"height": "900px"
-			},
-			"prizeDraw": {
-				"width": "1000px",
-				"height": "800px"
-			}
-		}
-	},
-	"divisionS": {
-		"labels": {
-			"homeTitle": "Welcome to Champs Racing League!",
-			"homeSubtitle": "Are you looking for some clean and competitive F1 2021 racing for players of all skill levels with features like Driver Ratings, Prize Drawings and Prize Pools?",
-			"seasonDetails": "",
-			"discordTitle": "\n\nSEASON SIGN-UP OPEN. JOIN NOW!",
-			"sideMenuFooterText": "bringing f1 game to real life"
-		},
-		"images": {
-			"prizeDrawURL": "https://drive.google.com/uc?id=1Iq4J7nXliQciK-EdUkTLr0eFfYEvLjs_",
-			"ratingsURL": "https://drive.google.com/uc?id=1vfXz7k-VREXMk5PZlc5ss7TMT9dAHA_T",
-			"calendarURL": "https://drive.google.com/uc?id=1roczUuJK6FHlc3cimZEJhwCcwKUwx0gG",
-			"resultsURL": "https://drive.google.com/uc?id=110wPOr6ihUhZfYydBt-1VLcE-_6_z9An",
-			"lineupURL": "https://drive.google.com/uc?id=1b1UaFYlaCG37vcisLWu5-7fwu4fNbhqD",
-			"standingsURL": "https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G",
-			"historyURL": [
-				"https://drive.google.com/uc?id=1jZ5fGMwaUZ95lYRmgh-6bsmBQjKT6U1k",
-				"https://drive.google.com/uc?id=1AhHiZgydhM78Z6j_e4DnWpRNzgN8Vflf",
-				"https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G"
-			]
-		},
-		"colors": {
-			"menuItemBackground": "#33353e",
-			"menuItemHoverEffect": "#25272f",
-			"labels": "#fafafa",
-			"menuBackground": "#25272f",
-			"websiteBackground": "#373A47",
-			"menuItemSelectedBackground": "#25272f"
-		},
-		"imagesSize": {
-			"discordIframe": {
-				"width": "300px",
-				"height": "480px"
-			},
-			"videoIframe": {
-				"width": "640px",
-				"height": "480px"
-			},
-			"calendar": {
-				"width": "1000px",
-				"height": "700px"
-			},
-			"results": {
-				"width": "1100px",
-				"height": "900px"
-			},
-			"standings": {
-				"width": "1100px",
-				"height": "800px"
-			},
-			"lineup": {
-				"width": "600px",
-				"height": "900px"
-			},
-			"ratings": {
-				"width": "900px",
-				"height": "700px"
-			},
-			"history": {
-				"width": "1100px",
-				"height": "900px"
-			},
-			"prizeDraw": {
-				"width": "1000px",
-				"height": "8000px"
-			}
-		}
-	},
-	"development": {
-		"labels": {
-			"homeTitle": "WELCOME TO CHAMPS RACE LEAGUE!",
-			"homeSubtitle": "Are you looking for some clean and competitive F1 2021 racing for players of all skill levels with features like Driver Ratings, Prize Drawings and Prize Pools?",
-			"seasonDetails": "",
-			"discordTitle": "\n\nSEASON SIGN-UP OPEN. JOIN NOW!",
-			"sideMenuFooterText": "bringing f1 game to real life"
-		},
-		"images": {
-			"prizeDrawURL": "https://drive.google.com/uc?id=1Iq4J7nXliQciK-EdUkTLr0eFfYEvLjs_",
-			"ratingsURL": "https://drive.google.com/uc?id=1vfXz7k-VREXMk5PZlc5ss7TMT9dAHA_T",
-			"calendarURL": "https://drive.google.com/uc?id=1roczUuJK6FHlc3cimZEJhwCcwKUwx0gG",
-			"resultsURL": "https://drive.google.com/uc?id=110wPOr6ihUhZfYydBt-1VLcE-_6_z9An",
-			"lineupURL": "https://drive.google.com/uc?id=1b1UaFYlaCG37vcisLWu5-7fwu4fNbhqD",
-			"standingsURL": "https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G",
-			"historyURL": [
-				"https://drive.google.com/uc?id=1jZ5fGMwaUZ95lYRmgh-6bsmBQjKT6U1k",
-				"https://drive.google.com/uc?id=1AhHiZgydhM78Z6j_e4DnWpRNzgN8Vflf",
-				"https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G"
-			]
-		},
-		"colors": {
-			"menuItemBackground": "#33353e",
-			"menuItemHoverEffect": "#e29aff",
-			"labels": "#fafafa",
-			"menuBackground": "#25272f",
-			"websiteBackground": "#373A47",
-			"menuItemSelectedBackground": "#00d2be"
-		},
-		"imagesSize": {
-			"discordIframe": {
-				"width": "300px",
-				"height": "480px"
-			},
-			"videoIframe": {
-				"width": "640px",
-				"height": "480px"
-			},
-			"calendar": {
-				"width": "1000px",
-				"height": "700px"
-			},
-			"results": {
-				"width": "1100px",
-				"height": "900px"
-			},
-			"standings": {
-				"width": "1100px",
-				"height": "800px"
-			},
-			"lineup": {
-				"width": "600px",
-				"height": "900px"
-			},
-			"ratings": {
-				"width": "900px",
-				"height": "700px"
-			},
-			"history": {
-				"width": "1100px",
-				"height": "900px"
-			},
-			"prizeDraw": {
-				"width": "1000px",
-				"height": "8000px"
-			}
-		}
-	}
+   "divisionOne":{
+      "labels":{
+         "homeTitle":"Welcome to Champs Racing League!",
+         "homeSubtitle":"Are you looking for some clean and competitive F1 2021 racing for players of all skill levels with features like Driver Ratings, Prize Drawings and Prize Pools?",
+         "seasonDetails":"",
+         "discordTitle":"\n\n\nSEASON SIGN-UP OPEN. JOIN NOW!",
+         "sideMenuFooterText":"bringing f1 game to real life"
+      },
+      "images":{
+         "prizeDrawURL":"https://drive.google.com/uc?id=1dORCOyrkNibjglBrXP4Sr5OhikV6E1ZC",
+         "ratingsURL":"https://drive.google.com/uc?id=1BavVMLhL-yQ_8XnpeL_DjmChn8DPTJet",
+         "calendarURL":"https://drive.google.com/uc?id=1w0YM_6XeSPut2P25cNandS5CaY8fyZxY",
+         "resultsURL":"https://drive.google.com/uc?id=139pPDVwgxf4Imlmlcq07iUJnHrQj0-Qe",
+         "lineupURL":"https://drive.google.com/uc?id=1AxFrHNbEBP-424PQYYlw4H7PxPXb54cJ",
+         "standingsURL":"https://drive.google.com/uc?id=1AhHiZgydhM78Z6j_e4DnWpRNzgN8Vflf",
+         "historyURL":[
+            "https://drive.google.com/uc?id=1jZ5fGMwaUZ95lYRmgh-6bsmBQjKT6U1k",
+            "https://drive.google.com/uc?id=1AhHiZgydhM78Z6j_e4DnWpRNzgN8Vflf",
+            "https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G"
+         ]
+      },
+      "colors":{
+         "menuItemBackground":"#33353e",
+         "menuItemHoverEffect":"#502179",
+         "labels":"#fafafa",
+         "menuBackground":"#25272f",
+         "websiteBackground":"#373A47",
+         "menuItemSelectedBackground":"#25272f"
+      },
+      "imagesSize":{
+         "discordIframe":{
+            "width":"300px",
+            "height":"480px"
+         },
+         "videoIframe":{
+            "width":"640px",
+            "height":"480px"
+         },
+         "calendar":{
+            "width":"1100px",
+            "height":"800px"
+         },
+         "results":{
+            "width":"1100px",
+            "height":"980px"
+         },
+         "standings":{
+            "width":"700px",
+            "height":"900px"
+         },
+         "lineup":{
+            "width":"600px",
+            "height":"980px"
+         },
+         "ratings":{
+            "width":"900px",
+            "height":"700px"
+         },
+         "history":{
+            "width":"1100px",
+            "height":"900px"
+         },
+         "prizeDraw":{
+            "width":"1000px",
+            "height":"800px"
+         }
+      }
+   },
+   "divisionTwo":{
+      "labels":{
+         "homeTitle":"Welcome to Champs Racing League!",
+         "homeSubtitle":"Are you looking for some clean and competitive F1 2021 racing for players of all skill levels with features like Driver Ratings, Prize Drawings and Prize Pools?",
+         "seasonDetails":"",
+         "discordTitle":"\n\n\nSEASON SIGN-UP OPEN. JOIN NOW!",
+         "sideMenuFooterText":"bringing f1 game to real life"
+      },
+      "images":{
+         "prizeDrawURL":"https://drive.google.com/uc?id=1Iq4J7nXliQciK-EdUkTLr0eFfYEvLjs_",
+         "ratingsURL":"https://drive.google.com/uc?id=1vfXz7k-VREXMk5PZlc5ss7TMT9dAHA_T",
+         "calendarURL":"https://drive.google.com/uc?id=1roczUuJK6FHlc3cimZEJhwCcwKUwx0gG",
+         "resultsURL":"https://drive.google.com/uc?id=110wPOr6ihUhZfYydBt-1VLcE-_6_z9An",
+         "lineupURL":"https://drive.google.com/uc?id=1b1UaFYlaCG37vcisLWu5-7fwu4fNbhqD",
+         "standingsURL":"https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G",
+         "historyURL":[
+            "https://drive.google.com/uc?id=1jZ5fGMwaUZ95lYRmgh-6bsmBQjKT6U1k",
+            "https://drive.google.com/uc?id=1AhHiZgydhM78Z6j_e4DnWpRNzgN8Vflf",
+            "https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G"
+         ]
+      },
+      "colors":{
+         "menuItemBackground":"#33353e",
+         "menuItemHoverEffect":"#1944a0",
+         "labels":"#fafafa",
+         "menuBackground":"#25272f",
+         "websiteBackground":"#373A47",
+         "menuItemSelectedBackground":"#25272f"
+      },
+      "imagesSize":{
+         "discordIframe":{
+            "width":"300px",
+            "height":"480px"
+         },
+         "videoIframe":{
+            "width":"640px",
+            "height":"480px"
+         },
+         "calendar":{
+            "width":"1100px",
+            "height":"800px"
+         },
+         "results":{
+            "width":"1100px",
+            "height":"980px"
+         },
+         "standings":{
+            "width":"700px",
+            "height":"900px"
+         },
+         "lineup":{
+            "width":"600px",
+            "height":"980px"
+         },
+         "ratings":{
+            "width":"900px",
+            "height":"700px"
+         },
+         "history":{
+            "width":"1100px",
+            "height":"900px"
+         },
+         "prizeDraw":{
+            "width":"1000px",
+            "height":"800px"
+         }
+      }
+   },
+   "divisionS":{
+      "labels":{
+         "homeTitle":"Welcome to Champs Racing League!",
+         "homeSubtitle":"Are you looking for some clean and competitive F1 2021 racing for players of all skill levels with features like Driver Ratings, Prize Drawings and Prize Pools?",
+         "seasonDetails":"",
+         "discordTitle":"\n\nSEASON SIGN-UP OPEN. JOIN NOW!",
+         "sideMenuFooterText":"bringing f1 game to real life"
+      },
+      "images":{
+         "prizeDrawURL":"https://drive.google.com/uc?id=1Iq4J7nXliQciK-EdUkTLr0eFfYEvLjs_",
+         "ratingsURL":"https://drive.google.com/uc?id=1vfXz7k-VREXMk5PZlc5ss7TMT9dAHA_T",
+         "calendarURL":"https://drive.google.com/uc?id=1roczUuJK6FHlc3cimZEJhwCcwKUwx0gG",
+         "resultsURL":"https://drive.google.com/uc?id=110wPOr6ihUhZfYydBt-1VLcE-_6_z9An",
+         "lineupURL":"https://drive.google.com/uc?id=1b1UaFYlaCG37vcisLWu5-7fwu4fNbhqD",
+         "standingsURL":"https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G",
+         "historyURL":[
+            "https://drive.google.com/uc?id=1jZ5fGMwaUZ95lYRmgh-6bsmBQjKT6U1k",
+            "https://drive.google.com/uc?id=1AhHiZgydhM78Z6j_e4DnWpRNzgN8Vflf",
+            "https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G"
+         ]
+      },
+      "colors":{
+         "menuItemBackground":"#33353e",
+         "menuItemHoverEffect":"#25272f",
+         "labels":"#fafafa",
+         "menuBackground":"#25272f",
+         "websiteBackground":"#373A47",
+         "menuItemSelectedBackground":"#25272f"
+      },
+      "imagesSize":{
+         "discordIframe":{
+            "width":"300px",
+            "height":"480px"
+         },
+         "videoIframe":{
+            "width":"640px",
+            "height":"480px"
+         },
+         "calendar":{
+            "width":"1000px",
+            "height":"700px"
+         },
+         "results":{
+            "width":"1100px",
+            "height":"900px"
+         },
+         "standings":{
+            "width":"1100px",
+            "height":"800px"
+         },
+         "lineup":{
+            "width":"600px",
+            "height":"900px"
+         },
+         "ratings":{
+            "width":"900px",
+            "height":"700px"
+         },
+         "history":{
+            "width":"1100px",
+            "height":"900px"
+         },
+         "prizeDraw":{
+            "width":"1000px",
+            "height":"8000px"
+         }
+      }
+   },
+   "development":{
+      "labels":{
+         "homeTitle":"WELCOME TO CHAMPS RACE LEAGUE!",
+         "homeSubtitle":"Are you looking for some clean and competitive F1 2021 racing for players of all skill levels with features like Driver Ratings, Prize Drawings and Prize Pools?",
+         "seasonDetails":"",
+         "discordTitle":"\n\nSEASON SIGN-UP OPEN. JOIN NOW!",
+         "sideMenuFooterText":"bringing f1 game to real life"
+      },
+      "images":{
+         "prizeDrawURL":"https://drive.google.com/uc?id=1Iq4J7nXliQciK-EdUkTLr0eFfYEvLjs_",
+         "ratingsURL":"https://drive.google.com/uc?id=1vfXz7k-VREXMk5PZlc5ss7TMT9dAHA_T",
+         "calendarURL":"https://drive.google.com/uc?id=1roczUuJK6FHlc3cimZEJhwCcwKUwx0gG",
+         "resultsURL":"https://drive.google.com/uc?id=110wPOr6ihUhZfYydBt-1VLcE-_6_z9An",
+         "lineupURL":"https://drive.google.com/uc?id=1b1UaFYlaCG37vcisLWu5-7fwu4fNbhqD",
+         "standingsURL":"https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G",
+         "historyURL":[
+            "https://drive.google.com/uc?id=1jZ5fGMwaUZ95lYRmgh-6bsmBQjKT6U1k",
+            "https://drive.google.com/uc?id=1AhHiZgydhM78Z6j_e4DnWpRNzgN8Vflf",
+            "https://drive.google.com/uc?id=1tMUX5QcfATDAbT6y5w9Z1xGZ6aI7tq_G"
+         ]
+      },
+      "colors":{
+         "menuItemBackground":"#33353e",
+         "menuItemHoverEffect":"#e29aff",
+         "labels":"#fafafa",
+         "menuBackground":"#25272f",
+         "websiteBackground":"#373A47",
+         "menuItemSelectedBackground":"#00d2be"
+      },
+      "imagesSize":{
+         "discordIframe":{
+            "width":"300px",
+            "height":"480px"
+         },
+         "videoIframe":{
+            "width":"640px",
+            "height":"480px"
+         },
+         "calendar":{
+            "width":"1000px",
+            "height":"700px"
+         },
+         "results":{
+            "width":"1100px",
+            "height":"900px"
+         },
+         "standings":{
+            "width":"1100px",
+            "height":"800px"
+         },
+         "lineup":{
+            "width":"600px",
+            "height":"900px"
+         },
+         "ratings":{
+            "width":"900px",
+            "height":"700px"
+         },
+         "history":{
+            "width":"1100px",
+            "height":"900px"
+         },
+         "prizeDraw":{
+            "width":"1000px",
+            "height":"8000px"
+         }
+      }
+   },
+   "imagesSize":{
+      "discordIframe":{
+         "width":"300px",
+         "height":"480px"
+      },
+      "videoIframe":{
+         "width":"640px",
+         "height":"480px"
+      },
+      "calendar":{
+         "width":"1100px",
+         "height":"800px"
+      },
+      "results":{
+         "width":"1100px",
+         "height":"980px"
+      },
+      "standings":{
+         "width":"700px",
+         "height":"900px"
+      },
+      "lineup":{
+         "width":"600px",
+         "height":"980px"
+      },
+      "ratings":{
+         "width":"900px",
+         "height":"700px"
+      },
+      "history":{
+         "width":"1100px",
+         "height":"900px"
+      },
+      "prizeDraw":{
+         "width":"1000px",
+         "height":"800px"
+      }
+   }
 }
