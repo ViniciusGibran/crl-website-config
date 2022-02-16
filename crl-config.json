@@ -111,10 +111,10 @@
          ]
       },
       "colors":{
-         "menuItemBackground":"#33353e",
+         "menuItemBackground":"#2f3136",
          "menuItemHoverEffect":"#e29aff",
          "labels":"#fafafa",
-         "menuBackground":"#2f3136",
+         "menuBackground":"#292b2f",
          "websiteBackground":"#37393e",
          "menuItemSelectedBackground":"#00d2be"
       }
