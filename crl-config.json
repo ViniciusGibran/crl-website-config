@@ -27,44 +27,6 @@
          "menuBackground":"#25272f",
          "websiteBackground":"#373A47",
          "menuItemSelectedBackground":"#25272f"
-      },
-      "imagesSize":{
-         "discordIframe":{
-            "width":"300px",
-            "height":"480px"
-         },
-         "videoIframe":{
-            "width":"640px",
-            "height":"480px"
-         },
-         "calendar":{
-            "width":"1100px",
-            "height":"800px"
-         },
-         "results":{
-            "width":"1100px",
-            "height":"980px"
-         },
-         "standings":{
-            "width":"700px",
-            "height":"900px"
-         },
-         "lineup":{
-            "width":"600px",
-            "height":"980px"
-         },
-         "ratings":{
-            "width":"900px",
-            "height":"700px"
-         },
-         "history":{
-            "width":"1100px",
-            "height":"900px"
-         },
-         "prizeDraw":{
-            "width":"1000px",
-            "height":"800px"
-         }
       }
    },
    "divisionTwo":{
@@ -95,44 +57,6 @@
          "menuBackground":"#25272f",
          "websiteBackground":"#373A47",
          "menuItemSelectedBackground":"#25272f"
-      },
-      "imagesSize":{
-         "discordIframe":{
-            "width":"300px",
-            "height":"480px"
-         },
-         "videoIframe":{
-            "width":"640px",
-            "height":"480px"
-         },
-         "calendar":{
-            "width":"1100px",
-            "height":"800px"
-         },
-         "results":{
-            "width":"1100px",
-            "height":"980px"
-         },
-         "standings":{
-            "width":"700px",
-            "height":"900px"
-         },
-         "lineup":{
-            "width":"600px",
-            "height":"980px"
-         },
-         "ratings":{
-            "width":"900px",
-            "height":"700px"
-         },
-         "history":{
-            "width":"1100px",
-            "height":"900px"
-         },
-         "prizeDraw":{
-            "width":"1000px",
-            "height":"800px"
-         }
       }
    },
    "divisionS":{
@@ -163,44 +87,6 @@
          "menuBackground":"#25272f",
          "websiteBackground":"#373A47",
          "menuItemSelectedBackground":"#25272f"
-      },
-      "imagesSize":{
-         "discordIframe":{
-            "width":"300px",
-            "height":"480px"
-         },
-         "videoIframe":{
-            "width":"640px",
-            "height":"480px"
-         },
-         "calendar":{
-            "width":"1000px",
-            "height":"700px"
-         },
-         "results":{
-            "width":"1100px",
-            "height":"900px"
-         },
-         "standings":{
-            "width":"1100px",
-            "height":"800px"
-         },
-         "lineup":{
-            "width":"600px",
-            "height":"900px"
-         },
-         "ratings":{
-            "width":"900px",
-            "height":"700px"
-         },
-         "history":{
-            "width":"1100px",
-            "height":"900px"
-         },
-         "prizeDraw":{
-            "width":"1000px",
-            "height":"8000px"
-         }
       }
    },
    "development":{
@@ -228,47 +114,9 @@
          "menuItemBackground":"#33353e",
          "menuItemHoverEffect":"#e29aff",
          "labels":"#fafafa",
-         "menuBackground":"#25272f",
-         "websiteBackground":"#373A47",
+         "menuBackground":"#2f3136",
+         "websiteBackground":"#37393e",
          "menuItemSelectedBackground":"#00d2be"
-      },
-      "imagesSize":{
-         "discordIframe":{
-            "width":"300px",
-            "height":"480px"
-         },
-         "videoIframe":{
-            "width":"640px",
-            "height":"480px"
-         },
-         "calendar":{
-            "width":"1000px",
-            "height":"700px"
-         },
-         "results":{
-            "width":"1100px",
-            "height":"900px"
-         },
-         "standings":{
-            "width":"1100px",
-            "height":"800px"
-         },
-         "lineup":{
-            "width":"600px",
-            "height":"900px"
-         },
-         "ratings":{
-            "width":"900px",
-            "height":"700px"
-         },
-         "history":{
-            "width":"1100px",
-            "height":"900px"
-         },
-         "prizeDraw":{
-            "width":"1000px",
-            "height":"8000px"
-         }
       }
    },
    "imagesSize":{
