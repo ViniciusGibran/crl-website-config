@@ -21,11 +21,11 @@
          ]
       },
       "colors":{
-         "menuItemBackground":"#33353e",
          "menuItemHoverEffect":"#502179",
          "labels":"#fafafa",
-         "menuBackground":"#25272f",
-         "websiteBackground":"#373A47",
+         "menuItemBackground":"#2f3136",
+         "menuBackground":"#292b2f",
+         "websiteBackground":"#37393e",
          "menuItemSelectedBackground":"#25272f"
       }
    },
@@ -51,11 +51,11 @@
          ]
       },
       "colors":{
-         "menuItemBackground":"#33353e",
          "menuItemHoverEffect":"#1944a0",
          "labels":"#fafafa",
-         "menuBackground":"#25272f",
-         "websiteBackground":"#373A47",
+         "menuItemBackground":"#2f3136",
+         "menuBackground":"#292b2f",
+         "websiteBackground":"#37393e",
          "menuItemSelectedBackground":"#25272f"
       }
    },
@@ -81,11 +81,11 @@
          ]
       },
       "colors":{
-         "menuItemBackground":"#33353e",
          "menuItemHoverEffect":"#25272f",
          "labels":"#fafafa",
-         "menuBackground":"#25272f",
-         "websiteBackground":"#373A47",
+         "menuItemBackground":"#2f3136",
+         "menuBackground":"#292b2f",
+         "websiteBackground":"#37393e",
          "menuItemSelectedBackground":"#25272f"
       }
    },
@@ -111,9 +111,9 @@
          ]
       },
       "colors":{
-         "menuItemBackground":"#2f3136",
          "menuItemHoverEffect":"#e29aff",
          "labels":"#fafafa",
+         "menuItemBackground":"#2f3136",
          "menuBackground":"#292b2f",
          "websiteBackground":"#37393e",
          "menuItemSelectedBackground":"#00d2be"
